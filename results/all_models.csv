@@ -1,0 +1,8 @@
+,reads,inputs,accuracy,roc_auc,macro_f1
+"Mistral-7B, RBF SVM",both lines,4096.000000,0.667695,0.725420,0.667466
+"BERT-Large, RBF SVM",both lines,4096.000000,0.650000,0.704400,0.649300
+"82 selected features, linear SVM",line 1,82.000000,0.626831,0.677895,0.626421
+"All 287 features, linear SVM",line 1,287.000000,0.612182,0.679360,0.611735
+"Mistral-7B, linear SVM",both lines,4096.000000,0.585197,0.629570,0.585190
+"TF-IDF baseline, linear SVM",line 1 (trained on both),32483.000000,0.570547,0.608431,0.568561
+"BERT-Large, linear SVM",both lines,4096.000000,0.560524,0.594997,0.560524

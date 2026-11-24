@@ -1,0 +1,5 @@
+,accuracy,roc_auc
+"TF-IDF, line 1 → line 1",0.58751,0.597651
+"TF-IDF, both lines → both lines",0.617579,0.65522
+speech rate alone (1 feature),0.599846,0.642066
+82 features without speech rate (81),0.624518,0.662309

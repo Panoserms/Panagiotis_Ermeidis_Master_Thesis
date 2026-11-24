@@ -1,0 +1,15 @@
+# The versions this repository was run with (Python 3.11, macOS).
+numpy==2.2.6
+pandas==3.0.0
+scipy==1.17.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+nltk==3.9.2
+spacy==3.8.11
+lftk==1.0.9
+ipykernel==7.1.0
+notebook
+pytest
+# Only for the two scripts in gpu/:
+# torch==2.10.0
+# transformers==4.57.6

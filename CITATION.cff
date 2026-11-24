@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this work, please cite the thesis.
+title: Investigating Silence in Written Text and Large Language Models
+type: software
+authors:
+  - family-names: Ermeidis
+    given-names: Panagiotis
+preferred-citation:
+  type: thesis
+  thesis-type: Master's thesis
+  title: Investigating Silence in Written Text and Large Language Models
+  authors:
+    - family-names: Ermeidis
+      given-names: Panagiotis
+  institution:
+    name: University of Konstanz
+  year: 2026

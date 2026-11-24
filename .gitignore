@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+
+# Film subtitles are copyrighted; the pairs made from them and the embeddings stay on the own computer.
+data/subtitles/
+data/pairs/
+data/embeddings/
+work/
+*.srt
+*.npz

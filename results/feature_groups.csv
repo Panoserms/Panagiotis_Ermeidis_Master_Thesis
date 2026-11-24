@@ -1,0 +1,5 @@
+,features,C,accuracy,roc_auc,macro_f1
+Syntactic,172.0,0.001,0.6207,0.6705,0.6202
+Lexical-semantic,27.0,0.001,0.5998,0.6356,0.5996
+Structural,20.0,0.1,0.5968,0.6281,0.5949
+Affect,68.0,0.01,0.579,0.6099,0.578
